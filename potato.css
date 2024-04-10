@@ -1,0 +1,169 @@
+* {margin:0; padding:0; border:0;}
+
+.wrapper1 {
+    width: 80%;
+    border: 3px solid rgb(242, 238, 238);
+    margin:0 auto;
+}
+
+body {
+    background-image: url(https://st.depositphotos.com/1012271/59954/i/450/depositphotos_599549198-stock-photo-rippled-water-surface-sea-golden.jpg);
+    background-size: cover;
+}
+
+.heading {
+    display: flex;
+    background-color: rgb(191, 227, 227);
+    justify-content: space-between;
+    padding-right: 350px;
+    padding-top: 50px;
+    padding-left:20px
+}
+
+.heading h2{
+    color:rgb(226, 242, 244);
+    text-align: center;
+    font-size: 62px;
+}
+
+nav {
+    border:3px solid rgb(240, 246, 246);
+    display: flex;
+    justify-content: space-between;
+    padding:20px;
+    font-size: 20px;
+    background-color: rgb(217, 243, 243);
+}
+
+nav a {
+    text-decoration: none;
+    margin-left:50px;
+    margin-right:50px;
+    color: rgb(126, 134, 155);
+}
+.columns {
+    display:flex;
+    justify-content: space-around;
+    background-color: rgb(191, 227, 227)
+}
+
+.columns h1 {
+    padding: 15px;
+}
+
+.banner {
+    background: url(https://magazine.lecollectionist.com/hubfs/best-exotic-luxury-destinations-header-min.jpg) center;
+    height: 450px;
+    background-size: cover;
+
+}
+
+legend {
+    font-size:35px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding:50px;
+    color:rgb(36, 56, 56);
+}
+
+body form{
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    text-align: center;
+    margin:0 auto;
+    font-size: 25px;
+    color:rgb(36, 56, 56);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border:1px solid rgb(14, 87, 68); width: 70%;
+    border-radius: 10px;
+    backdrop-filter: blur(5px);
+}
+
+.box div {
+    padding:15px;
+}
+
+.box input {
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding:3px;
+}
+
+.box button{
+    font-size: x-large;
+    padding:8px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(206, 239, 239);
+}
+
+.wrapper2 {
+    width: 80%;
+    margin:0 auto;
+    background-image: url(https://cdn.kimkim.com/files/a/content_articles/featured_photos/c98b4f78c783b7dfb3bcc0909eae68a3f7045dc3/big-2de252e5e986a8325d120c2dc98de268.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 900px;
+}
+
+.wrapper3 {
+    width: 80%;
+    margin:0 auto;
+    background-image: url(https://static.saltinourhair.com/wp-content/uploads/2023/03/08152918/phuket-thailand-23.jpg);
+    background-size: cover;
+    height: 950px;
+}
+
+.wrapper3 h1 {
+    text-align: center;
+    padding:20px;
+    font-size: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 20px;
+}
+ .links {
+    display: flex;
+    justify-content: center;
+    padding:20px;
+    backdrop-filter: blur(5px);
+ }
+
+ .unlist {
+    justify-content:center;
+    margin: 0px;
+    list-style: none;
+    font-size:30px;
+    text-align: center;
+ }
+
+ .unlist a {
+    text-decoration: none;
+    color:rgb(27, 77, 108)
+ }
+
+ .unlist li {
+    padding:30px;
+ }
+
+ .unlist p {
+    font-size: 20px;
+ }
+
+ .wrapper4 {
+    width: 60%;
+    margin:0 auto;
+    height: 900px;
+ }
+
+ .images li{
+    list-style: none;
+ }
+
+ .images li a {
+    text-decoration: none;
+    color:rgb(27, 40, 40);
+    text-align: center;
+    padding:20px;
+ }
